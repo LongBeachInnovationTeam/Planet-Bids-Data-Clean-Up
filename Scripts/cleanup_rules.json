@@ -1,0 +1,12 @@
+{
+  "source_data_file_path": "Data/Source/VendorsExport.csv",
+  "source_data_skip_lines": 3,
+  "output_directory": "Data/Processed/",
+  "sanitize_city": {
+    ",": "",
+    "ca": "",
+    "california": "",
+    "lbc": "long beach",
+    "lb": "long beach"
+  }
+}
